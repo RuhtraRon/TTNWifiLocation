@@ -11,9 +11,13 @@
 
 # Software
   Using Arduino IDE
+  
   Add to Board Manager: http://arduino.esp8266.com/stable/package_esp8266com_index.json
+  
   Add Library from Manager: esp8266, SoftSerial
+  
   Copy included Libraries to personal Library folder
+  
   Edit ino with your ttn data, mozilla api key, wifi info
 
 # Todo
