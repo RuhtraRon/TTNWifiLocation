@@ -20,5 +20,5 @@
   
   Edit ino with your ttn data, mozilla api key, wifi info
 
-# Todo
+# To do
   Put secrets in ignored file
